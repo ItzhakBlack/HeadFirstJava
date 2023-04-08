@@ -10,8 +10,9 @@ Have fun!
 3. Anatomy of a class
 4. The main() method
 5. Looping
-6. Conditional branching (if tests)
-7. Coding the "99 bottles of beer" app
-8. Phase-o-matic
-9. Fireside chat: compiler vs. JVM
-10. Exercises and puzzles
+* files: Loopy.java, Loopy.class
+7. Conditional branching (if tests)
+8. Coding the "99 bottles of beer" app
+9. Phase-o-matic
+10. Fireside chat: compiler vs. JVM
+11. Exercises and puzzles
