@@ -5,14 +5,18 @@ Have fun!
 
 ## Content
 ### 1 Breaking the Surface
-1. The way Java works
-2. Code Structure in Java
-3. Anatomy of a class
-4. The main() method
-5. Looping
-* files: Loopy.java, Loopy.class
-7. Conditional branching (if tests)
-8. Coding the "99 bottles of beer" app
-9. Phase-o-matic
-10. Fireside chat: compiler vs. JVM
-11. Exercises and puzzles
++ The main() method - (p9)
+* Files: MyFirstApp.java, MyFirstApp.class
++ Looping - (p11)
+* Files: Loopy.java, Loopy.class
++ Conditional branching (if tests) - (p13)
+* Files: IfTest.java, IfTest.class, IfTest2.java, IfTest2.class, DooBee.java, DooBee.class
++ Coding the "99 bottles of beer" app - (p14)
+* BeerSong.java, BeerSong.class
++ Phrase-o-matic - (p16)
+* PhraseOMatic.java, PhraseOMatic.java
++ Exercises and puzzles - (p20)
+* Code Magnets: Shuffle1.java, Shuffle1.class
+* Be the compiler: Exercise1b_a.java, Exercise1b_a.class, Exercise1b_b.java, Exercise1b_b.class, Exercise1b_c.java, Exercise1b_c.class
+* Mixed Mesages:  MixedMessageTest.java, MixedMessageTest.class
+* Pool Puzzle: PoolPuzzleOne.java, PoolPuzzleOne.class
