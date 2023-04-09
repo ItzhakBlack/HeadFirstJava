@@ -7,7 +7,7 @@ Have fun!
 > ISBN: 978-0-596-00920-5, Authors: Kathy Sierra & Bert Bates, O´Reilly.
 
 ## Content
-### 1 Breaking the Surface
+### [01 Breaking the Surface](https://github.com/ItzhakBlack/HeadFirstJava/tree/main/01%20Breaking%20the%20Surface)
 + The main() method - (p9)
 + Looping - (p11)
 + Conditional branching (if tests) - (p13)
